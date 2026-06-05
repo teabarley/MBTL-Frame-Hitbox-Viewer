@@ -1,11 +1,13 @@
-# MBTL-Frame-Hitbox-Viewer
+<img width="1920" height="1080" alt="test2" src="https://github.com/user-attachments/assets/73b496e6-dae1-4fc8-bd3e-0ec575d6d99c" />  
+<img width="1920" height="1080" alt="test3" src="https://github.com/user-attachments/assets/493bf095-9958-42d8-bab2-c43ada25f3d6" />  
+
+# MBTL-Frame-Hitbox-Viewer  
 MBTL (멜티 블러드 타입 루미나)의 히트박스 표시와 프레임바를 통합한 모드입니다.  
 본 프로그램은 [Eiton](https://github.com/Eiton) 님의 [MBTL-Hitbox-Viewer](https://github.com/Eiton/MBTL-Hitbox-Viewer)와 
-[kosunan](https://github.com/kosunan) 님의 [MBTL_Training](https://github.com/kosunan/MBTL_Training)의 코드를 기반으로 하며  
-AI의 도움을 받아 만들어졌습니다. 
+[kosunan](https://github.com/kosunan) 님의 [MBTL_Training](https://github.com/kosunan/MBTL_Training)의 코드를 기반으로 하며 **AI**의 도움을 받아 만들어졌습니다. 
 
 > **주의사항 (Disclaimer)**  
-> 본 모드는 개인 커스텀 목적으로 제작되었으며, **아직 프레임 데이터가 정확하지 않을 수 있습니다.**  
+> 본 모드는 개인 커스텀 목적으로 제작되었으며, **프레임 데이터가 정확하지 않을 수 있습니다.**  
 > 정확한 데이터는 [Mizuumi Wiki](https://wiki.gbl.gg/w/Melty_Blood/Type_Lumina) 등의 교차 검증을 거쳐 참고하시기 바랍니다.
 
 ## 기능
